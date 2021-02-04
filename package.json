@@ -1,6 +1,6 @@
 {
   "name": "pagerank",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "PageRank (PR) algorithm is used by Google to rank web pages in search results.",
   "private": true,
   "main": "index.js",
