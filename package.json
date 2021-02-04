@@ -1,0 +1,27 @@
+{
+  "name": "pagerank",
+  "version": "0.0.1",
+  "description": "PageRank (PR) algorithm is used by Google to rank web pages in search results.",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/pagerank.git"
+  },
+  "keywords": [
+    "pagerank",
+    "page",
+    "rank",
+    "graph",
+    "algorithm"
+  ],
+  "author": "wolfram77@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nodef/pagerank/issues"
+  },
+  "homepage": "https://github.com/nodef/pagerank#readme"
+}
